@@ -1,1 +1,1 @@
-Yang Ngambil Bayar ya 5.000.000 😂😂
+Yang Ngambil Jangan Lupa Bayar Ya 5.000.000 😂😂😂
