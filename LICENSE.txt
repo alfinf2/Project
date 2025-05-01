@@ -1,0 +1,36 @@
+LICENSE
+
+Hak Cipta © 2025 Alfin F
+
+⚠️ PERINGATAN:
+File ini adalah bagian penting dari sistem. Jangan menghapus file ini. Penghapusan tanpa izin dapat menyebabkan pelanggaran terhadap syarat dan ketentuan penggunaan.
+
+File ini dilindungi undang-undang. Dilarang keras mengubah, menggandakan, atau mendistribusikan file ini tanpa izin tertulis dari pemilik.
+
+File ini hanya boleh digunakan sebagaimana mestinya sesuai dengan ketentuan yang telah ditetapkan oleh pembuat.
+
+Untuk informasi lebih lanjut atau permintaan lisensi khusus, silakan kunjungi:
+https://github.com/alfinf2
+
+Dengan menggunakan file ini, Anda setuju untuk mematuhi ketentuan lisensi ini.
+
+-- Akhir Lisensi --
+
+
+LICENSE
+
+Copyright © 2025 Alfin F
+
+⚠️ WARNING:
+This file is an essential part of the system. Do not delete this file. Unauthorized removal may result in a violation of the terms and conditions of use.
+
+This file is protected by copyright law. It is strictly prohibited to modify, reproduce, or distribute this file without explicit written permission from the author.
+
+This file is intended to be used only as permitted under the conditions set by the creator.
+
+For more information or to request a custom license, please visit:
+https://github.com/alfinf2
+
+By using this file, you agree to comply with the terms of this license.
+
+-- End of License --

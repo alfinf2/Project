@@ -1,0 +1,16 @@
+{
+    "name": "asus/absensi-siswa",
+    "type": "project",
+    "require": {
+        "picqer/php-barcode-generator": "^3.2",
+        "endroid/qr-code": "^6.0",
+        "dompdf/dompdf": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "alfinf2",
+            "email": "alfinfahreza090404@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
