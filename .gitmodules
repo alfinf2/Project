@@ -1,7 +1,0 @@
-[submodule "vendor/bacon/bacon-qr-code"]
-    path = vendor/bacon/bacon-qr-code
-    url = https://github.com/Bacon/BaconQrCode.git
-
-[submodule "vendor/dasprid/enum"]
-    path = vendor/dasprid/enum
-    url = https://github.com/DASPRiD/Enum.git
